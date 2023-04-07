@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>870256442359-lacdmr66e59mb4e13uhhaclv3drod784.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.870256442359-lacdmr66e59mb4e13uhhaclv3drod784</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>870256442359-pe8m050gvitv0kq8l7eooiqppbvrvsoo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCP2EJtrrxMmyMatYLlf8AHBeQyzUhLj8w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870256442359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>moluccus.app.moluccus-ios</string>
+	<key>PROJECT_ID</key>
+	<string>moluccus-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moluccus-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870256442359:ios:b307aef7d7eec48e138cf2</string>
+	<key>DATABASE_URL</key>
+	<string>https://moluccus-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
